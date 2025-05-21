@@ -4,5 +4,8 @@
         System.out.println("This is my first Git project.");
         System.out.println("I am learning how to use Git.");
         System.out.println("I am excited to learn more about version control.");
+        System.out.println("This is a new line added to the project.");
+        System.out.println("This is another new line added to the project.");       
+        System.out.println("This is a new line added to the project.");
     }
 }
